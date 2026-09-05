@@ -47,9 +47,10 @@ Recovery Action
 Execution Result
       ↓
 Dashboard Monitoring
-
+```
 <img width="2306" height="1140" alt="Screenshot 2026-09-05 191804" src="https://github.com/user-attachments/assets/294e7884-f990-4e64-bfb0-24d3b8e0344a" />
 
 <img width="2228" height="1094" alt="Screenshot 2026-09-05 191850" src="https://github.com/user-attachments/assets/d2e6211a-e49a-48f2-93cd-14f02f008d45" />
 
 <img width="2248" height="1008" alt="Screenshot 2026-09-05 191901" src="https://github.com/user-attachments/assets/30cb8520-e1d6-4813-a8a5-bddcb67e6b12" />
+
